@@ -1,4 +1,4 @@
-- 👋 ##Hi, I’m Andy
+- 👋 Hi, I’m Andy
 - 🌱 I’m currently studying networking with a bit of programming thrown in.
 - 👀 Turns out I quite like the programming part so i've started making lil projects and tools for my own use and to reinforce some of the concepts i've been learning.
 - 💞️ Please feel free to offer any feedback on my hacked together code. Constructive input and ideas are always welcome.
